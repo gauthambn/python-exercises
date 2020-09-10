@@ -1,0 +1,1 @@
+oc create -f https://raw.githubusercontent.com/jupyter-on-openshift/jupyter-notebooks/master/templates/notebook-workspace.json
